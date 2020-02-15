@@ -11,7 +11,9 @@ READ 3     | READ 3 Topic / Link
 READ 4     | READ 4 Topic / Link 
 
 
-Markdown features:
+
+
+## Markdown features:
 - text formatting: bold text and italic text
 - document structuring: headings with different levels and quotes
 - lists ordered and unordered lists
